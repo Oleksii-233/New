@@ -1,9 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Probbbbb\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{73F61F9F-6A8F-4D02-9CD2-D21874ED2516}|Probbbbb\\Probbbbb.vcxproj|C:\\Users\\user\\source\\repos\\Probbbbb\\Probbbbb\\Probbbbb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73F61F9F-6A8F-4D02-9CD2-D21874ED2516}|Probbbbb\\Probbbbb.vcxproj|C:\\Users\\user\\source\\repos\\New\\Probbbbb\\Probbbbb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+>>>>>>> feature
       "RelativeMoniker": "D:0:0:{73F61F9F-6A8F-4D02-9CD2-D21874ED2516}|Probbbbb\\Probbbbb.vcxproj|solutionrelative:Probbbbb\\Probbbbb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +35,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Probbbbb.cpp",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Probbbbb\\Probbbbb\\Probbbbb.cpp",
               "RelativeDocumentMoniker": "Probbbbb\\Probbbbb.cpp",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Probbbbb\\Probbbbb\\Probbbbb.cpp",
               "RelativeToolTip": "Probbbbb\\Probbbbb.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\New\\Probbbbb\\Probbbbb.cpp",
+              "RelativeDocumentMoniker": "Probbbbb\\Probbbbb.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\New\\Probbbbb\\Probbbbb.cpp",
+              "RelativeToolTip": "Probbbbb\\Probbbbb.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+>>>>>>> feature
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-26T13:37:36.961Z",
               "EditorCaption": ""
