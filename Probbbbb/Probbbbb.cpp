@@ -4,5 +4,6 @@ using namespace std;
 
 int main() {
 	setlocale(0, "UKR");
-	cout << "Новий це проект." << endl;
+	string text = "Це вже вiдредагований проект.";
+	cout << text << endl;
 }
